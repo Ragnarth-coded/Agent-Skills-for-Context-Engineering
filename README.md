@@ -91,8 +91,6 @@ The [llm-as-judge-skills](examples/llm-as-judge-skills/) example is a complete T
 - **Rubric Generation**: Create domain-specific evaluation standards
 - **EvaluatorAgent**: High-level agent combining all evaluation capabilities
 
-Based on research from [Eugene Yan's LLM-Evaluators](https://eugeneyan.com/writing/llm-evaluators/) and [Vercel AI SDK 6](https://vercel.com/blog/ai-sdk-6).
-
 ```bash
 # Quick start
 cd examples/llm-as-judge-skills
