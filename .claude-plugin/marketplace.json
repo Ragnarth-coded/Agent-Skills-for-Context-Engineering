@@ -1,0 +1,29 @@
+{
+  "name": "context-engineering-marketplace",
+  "description": "Marketplace for Context Engineering skills library",
+  "plugins": [
+    {
+      "name": "context-engineering",
+      "description": "Fundamental Agent Skills for context engineering. Includes strategies for context window management, multi-agent orchestration, memory systems, and advanced LLM-as-a-Judge evaluation frameworks.",
+      "version": "1.0.0",
+      "source": "./skills",
+      "strict": false,
+      "author": {
+        "name": "Muratcan Koylan"
+      },
+      "homepage": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "repository": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "license": "MIT",
+      "keywords": [
+        "context-engineering",
+        "agent-skills",
+        "multi-agent",
+        "memory-systems",
+        "llm-as-a-judge",
+        "context-optimization",
+        "harness-engineering",
+        "agent-engineering"
+      ]
+    }
+  ]
+}
