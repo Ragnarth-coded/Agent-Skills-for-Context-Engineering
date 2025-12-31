@@ -1,7 +1,6 @@
 ---
 name: tool-design
 description: This skill should be used when the user asks to "design agent tools", "create tool descriptions", "reduce tool complexity", "implement MCP tools", or mentions tool consolidation, architectural reduction, tool naming conventions, or agent-tool interfaces.
-version: 1.1.0
 ---
 
 # Tool Design for Agents

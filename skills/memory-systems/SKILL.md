@@ -1,7 +1,6 @@
 ---
 name: memory-systems
 description: This skill should be used when the user asks to "implement agent memory", "persist state across sessions", "build knowledge graph", "track entities", or mentions memory architecture, temporal knowledge graphs, vector stores, entity memory, or cross-session persistence.
-version: 1.0.0
 ---
 
 # Memory System Design
